@@ -1,0 +1,8 @@
+"name": "CASK"
+"product": "library"
+"dependencies": []
+"private-header-paths": []
+"public-header-paths":
+  - "include"
+"source-globs":
+  - "src/*"
