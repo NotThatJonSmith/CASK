@@ -1,8 +1,10 @@
-"name": "CASK"
-"product": "library"
-"dependencies": []
-"private-header-paths": []
-"public-header-paths":
-  - "include"
-"source-globs":
-  - "src/*"
+name: CASK
+apps: []
+build-static-lib: true
+build-shared-lib: true
+dependencies: []
+private-header-paths: []
+public-header-paths:
+  - include
+source-globs:
+  - src/*
