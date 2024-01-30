@@ -3,6 +3,8 @@
 #include <cstdint>
 #include <queue>
 
+// TODO delete this useless abstraction
+
 namespace CASK {
 
 class EventQueue {

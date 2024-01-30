@@ -14,6 +14,8 @@ class IOTarget {
 
 public:
 
+    void *hint = nullptr;
+
     /*
      * Generic transaction helper function template. Instantiates as one of the
      * nine interface functions depending on the chosen address width and access
