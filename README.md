@@ -1,4 +1,7 @@
 # CASK
+
+Archived / Deprecated / Etc. All the useful code has been rolled up into GRIM.
+
 CASK is the Cycle-Accurate Simulator Kit, an intentionally-tiny set of core APIs
 upon which device models may be implemented, and then may expect to interoperate
 with one another in a sane way.
